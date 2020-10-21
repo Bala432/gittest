@@ -1,5 +1,5 @@
 #! /bin/sh
 
 echo "Hello World"
-exit;
+echo "File changed"
 
